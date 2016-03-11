@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Help_desk()
+comment0.text=private\ String\ about_us;\n\ \ \ \ private\ String\ contact_us;\n\ \ \ \ private\ String\ post_FAQ;\n\ \ \ \ private\ String\ ans_FAQ\n\ \ \ \ /**\n\ Constructor\ for\ objects\ of\ class\ Help_desk\n
+numComments=1
